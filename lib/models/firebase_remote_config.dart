@@ -12,7 +12,7 @@ class RemoteConfigService {
   
   // Private constructor that initializes with default FirebaseRemoteConfig
   RemoteConfigService._() {
-    // We'll initialize FirebaseRemoteConfig lazily when needed
+    // initialize FirebaseRemoteConfig lazily when needed
   }
   
   // Keys for Remote Config values

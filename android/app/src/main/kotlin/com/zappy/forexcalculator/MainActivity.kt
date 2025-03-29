@@ -1,4 +1,4 @@
-package com.example.forex_calculator
+package com.zappy.forexcalculator
 
 import io.flutter.embedding.android.FlutterActivity
 
