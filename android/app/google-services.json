@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1023012900652",
+    "project_id": "forexcalculator-fc8a4",
+    "storage_bucket": "forexcalculator-fc8a4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023012900652:android:327d5752e12f3a4900a689",
+        "android_client_info": {
+          "package_name": "com.example.forex_calculator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfIYtvo8fX2szHC9IlfmSuHk0tCtUytPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
