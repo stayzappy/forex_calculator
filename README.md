@@ -1,4 +1,4 @@
-# ZForex Calculator
+# ZForex Calculator Pro
 
 ![ZForex Calculator Pro Banner](assets/Feature_Graphic.jpg)
 
@@ -16,9 +16,14 @@ A professional-grade forex trading calculator app providing accurate lot sizing,
 ## Screenshots
 
 <div align="center">
-  <img src="assets/screenshot-1.png" alt="Risk Calculator" width="250"/>
-  <img src="assets/screenshot-2.png" alt="Currency Pairs" width="250"/>
-  <img src="assets/screenshot-3.png" alt="Economic Calendar" width="250"/>
+  <img src="assets/1.jpg" alt="Risk Calculator" width="250"/>
+  <img src="assets/2.jpg" alt="Currency Pairs" width="250"/>
+  <img src="assets/3.jpg" alt="Economic Calendar" width="250"/>
+  <img src="assets/4.jpg" alt="Economic Calendar" width="250"/>
+  <img src="assets/5.jpg" alt="Economic Calendar" width="250"/>
+  <img src="assets/6.jpg" alt="Economic Calendar" width="250"/>
+  <img src="assets/7.jpg" alt="Economic Calendar" width="250"/>
+  <img src="assets/8.jpg" alt="Economic Calendar" width="250"/>
 </div>
 
 ## Installation
@@ -42,14 +47,13 @@ Forex Calculator Pro simplifies the process of calculating trading parameters:
 
 ## Development
 
-This application is built using [Framework/Technology] with a focus on accuracy and user experience. We prioritize reliable calculations and real-time data to support trader decision-making.
+This application is built using [Flutter] with a focus on accuracy and user experience. We prioritize reliable calculations and real-time data to support trader decision-making.
 
 ## Feedback & Support
 
 We welcome your feedback and suggestions! For support, please contact us at:
 
-- Email: support@forexcalculatorpro.com
-- Twitter: [@ForexCalcPro](https://twitter.com/ForexCalcPro)
+- Email: adezapelectronics@gmail.com
 - Create an issue on this repository
 
 ## Privacy Policy
