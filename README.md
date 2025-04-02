@@ -16,7 +16,6 @@ A professional-grade forex trading calculator app providing accurate lot sizing,
 ## Screenshots
 
 <div align="center">
-  <img src="assets/1.jpg" alt="Risk Calculator" width="250"/>
   <img src="assets/2.jpg" alt="Currency Pairs" width="250"/>
   <img src="assets/3.jpg" alt="Economic Calendar" width="250"/>
   <img src="assets/4.jpg" alt="Economic Calendar" width="250"/>
@@ -24,6 +23,7 @@ A professional-grade forex trading calculator app providing accurate lot sizing,
   <img src="assets/6.jpg" alt="Economic Calendar" width="250"/>
   <img src="assets/7.jpg" alt="Economic Calendar" width="250"/>
   <img src="assets/8.jpg" alt="Economic Calendar" width="250"/>
+  <img src="assets/1.jpg" alt="Risk Calculator" width="250"/>
 </div>
 
 ## Installation
