@@ -1,6 +1,6 @@
 # ZForex Calculator
 
-![ZForex Calculator Pro Banner](assets/banner.png)
+![ZForex Calculator Pro Banner](assets/Feature_Graphic.jpg)
 
 A professional-grade forex trading calculator app providing accurate lot sizing, pip value calculations, risk assessment, real-time currency data, and an economic calendar.
 
