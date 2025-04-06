@@ -64,5 +64,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-© 2025 [Your Company Name] | All Rights Reserved
+© 2025 ZappyTheDev | All Rights Reserved
 
