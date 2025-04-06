@@ -28,12 +28,10 @@ A professional-grade forex trading calculator app providing accurate lot sizing,
 
 ## Installation
 
-<a href="https://play.google.com/store/apps/details?id=com.yourcompany.forexcalculatorpro">
-  <img src="assets/google-play-badge.png" alt="Get it on Google Play" height="60"/>
+<a href="https://apkpure.com/p/com.zappy.forexcalculator">
+  <img src="assets/apkpure.webp" alt="Get it on Google Play" height="60"/>
 </a>
-<a href="https://apps.apple.com/app/forex-calculator-pro/id0123456789">
-  <img src="assets/app-store-badge.png" alt="Download on the App Store" height="60"/>
-</a>
+
 
 ## How It Works
 
