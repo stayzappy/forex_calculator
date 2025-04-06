@@ -56,7 +56,7 @@ We welcome your feedback and suggestions! For support, please contact us at:
 
 ## Privacy Policy
 
-View our [Privacy Policy](privacy-policy.md) for information on how we handle user data.
+View our [Privacy Policy](https://www.termsfeed.com/live/4ea9bc31-5387-4012-9d2c-dbe98ef65a19) for information on how we handle user data.
 
 ## License
 
